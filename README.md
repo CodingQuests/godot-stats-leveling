@@ -204,6 +204,18 @@ with interactive lessons and real projects.
 
 - **[Stats & Leveling System](https://codingquests.io/quests/stats-and-leveling-system?utm_source=github&utm_medium=resource&utm_campaign=godot_stats_leveling)**
   builds these components lesson by lesson, from a single `Stat` resource to
-  levelling and stat points. The first 4 lessons are free.
+  levelling and stat points. The first 4 lessons are free with a free account, and the
+  first 2 need no account at all.
+
+## More Free Godot Resources from CodingQuests
+
+Other free, MIT-licensed Godot 4 projects that work well next to this one:
+
+- **[Inventory System](https://github.com/CodingQuests/godot-inventory-system)**: A slot inventory with stacking, drag and drop, tooltips, item use and save data.
+- **[Save System](https://github.com/CodingQuests/godot-save-system)**: Save slots where picked-up items stay picked up and opened chests stay open.
+- **[Hitbox and Hurtbox](https://github.com/CodingQuests/godot-hitbox-hurtbox)**: Health, hitbox and hurtbox components with one hit per swing, knockback, hit-stop and i-frames.
+- **[Dialogue and Quest System](https://github.com/CodingQuests/godot-dialogue-quest-system)**: Branching dialogue with conditions and effects, quests that track themselves, and a visual dialogue editor.
+
+All twelve are listed on the [CodingQuests GitHub profile](https://github.com/CodingQuests).
 
 Made by [CodingQuests](https://codingquests.io/?utm_source=github&utm_medium=resource&utm_campaign=godot_stats_leveling).
